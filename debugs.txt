@@ -2,8 +2,6 @@ DEBUG LOG - Rock Paper Scissors Project
 Owner:Gesandu Dulnitha
 Date: 21;54 PM 2025/06/02
 
----
-
  Line 11 (HTML)
 Changed <span id="round-numer"> to <span id="round-number">
 
