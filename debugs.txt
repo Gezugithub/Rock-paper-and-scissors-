@@ -1,0 +1,28 @@
+DEBUG LOG - Rock Paper Scissors Project
+Owner:Gesandu Dulnitha
+Date: 21;54 PM 2025/06/02
+
+---
+
+ Line 11 (HTML)
+Changed <span id="round-numer"> to <span id="round-number">
+
+ Line 15 (HTML)
+ Changed <span id="user-scor"> to <span id="user-score">
+
+ Line 19 (HTML)
+ Changed </buton> to </button>
+
+ Line 21 (HTML)
+ Changed onlick="playGame('scissors')" to onclick="playGame('scissors')"
+
+ Line 28 (HTML)
+ Changed <buton id="reset-btn"> to <button id="reset-btn">
+
+ Line 30 (HTML)
+ Corrected to </audio>
+
+
+
+ 6 issues fixedS 
+ I tested all buttons and rounds again after fixing. Everything is now working as expected. Dark mode toggle works, score updates correctly, and match results show at the end.
