@@ -80,3 +80,4 @@ document.getElementById('reset-btn').addEventListener('click', () => {
 document.getElementById('dark-mode-btn').addEventListener('click', () => {
   document.body.classList.toggle('dark-mode');
 });
+
